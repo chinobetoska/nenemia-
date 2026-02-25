@@ -55,7 +55,7 @@ nenemia-/
 ├── imagenes/                        # Recursos visuales y multimedia
 ├── index.php                        # Punto de entrada principal de la aplicación
 └── README.md                        # Documentación general del proyecto
-<pre>
+</pre>
 ##  Instalación
 
 Si deseas ejecutar este proyecto de forma local, sigue estos pasos:
